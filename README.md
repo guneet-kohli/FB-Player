@@ -32,8 +32,8 @@ The task is to predict the market value of a player using linear regression and 
 7. Provide insights and conclusions based on the model's predictions and the data visualization findings.
 
 **Files Included:**
-1. `EPL_players_dataset.csv`: CSV file containing the dataset.
-2. `EPL_players_analysis.ipynb` (or `.py`): Jupyter Notebook (or Python script) containing code for data exploration, visualization using Seaborn, and building the linear regression model.
+1. `football 8 sem.csv`: CSV file containing the dataset.
+2. `FB-Player.ipynb` (or `.py`): Jupyter Notebook (or Python script) containing code for data exploration, visualization using Seaborn, and building the linear regression model.
 3. `README.md`: This readme file providing an overview of the task, data, and steps to perform.
 
 **Dependencies:**
