@@ -52,4 +52,4 @@ The task is to predict the market value of a player using linear regression and 
 3. Run the Jupyter Notebook or Python script to perform data analysis and build the linear regression model.
 
 **Note:**
-Ensure that the dataset file (`EPL_players_dataset.csv`) is placed in the same directory as the Jupyter Notebook or Python script for proper execution.
+Ensure that the dataset file (`football 8 sem.csv`) is placed in the same directory as the Jupyter Notebook or Python script for proper execution.
