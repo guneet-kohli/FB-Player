@@ -1,6 +1,4 @@
 # FB-Player
-**README**
-
 **Data Description:**
 The dataset contains information about football players from the English Premier League. The attributes include:
 - `name`: Name of the player
